@@ -2,9 +2,9 @@
 main:
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/ # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Publications"
+  - title: "Prestations"
     url: /year-archive/
-  - title: "Catégories"
+  - title: "Textes"
     url: /categories/
   - title: "Tags"
     url: /tags/
