@@ -16,11 +16,4 @@ main:
     url: https://google.com
     target: _blank
 
-#  - title: "About"
-#     url: /index/
-#  - title: "Sample Posts"
-#     url: /index/ #/year-archive/
-#  - title: "Sample Collections"
-#     url: /index/ #/collection-archive/
-#  - title: "Sitemap"
-#     url: /index/ #/sitemap/
+
