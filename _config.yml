@@ -43,6 +43,16 @@ copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 
 #_________________________
+# TOC Settings
+#_________________________
+toc:
+ min_level: 1
+ max_level: 3
+ list_class: toc
+ list_class: toc__list
+ sublist_class: toc__sublist
+
+#_________________________
 # COMMENTAIRES
 #_________________________
 comments:
@@ -281,6 +291,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-toc
 
 # mimic GitHub Pages with --safe
 whitelist:
