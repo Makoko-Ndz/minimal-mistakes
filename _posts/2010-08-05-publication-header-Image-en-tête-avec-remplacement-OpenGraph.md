@@ -1,15 +1,15 @@
 ---
-title: "Post: Header Image with OpenGraph Override"
+title: "Publication: Image en-Tête avec superposition OpenGraph"
 header:
   image: /assets/images/page-header-image.png
   og_image: /assets/images/page-header-og-image.png
 categories:
-  - Layout
-  - Uncategorized
+  - Mise en page
+  - Non Catégorisé
 tags:
-  - edge case
+  - cas particulier
   - image
-  - layout
+  - mise en page
 last_modified_at: 2017-10-26T15:12:19-04:00
 ---
 
