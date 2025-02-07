@@ -1,5 +1,5 @@
 ---
-title:  "Exclude Post from Search Index"
+title:  "Exclure la Publication de l'index de recherche"
 search: false
 categories: 
   - Jekyll
