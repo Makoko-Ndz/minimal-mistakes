@@ -1,8 +1,8 @@
 ---
-title: "Layout: Post Date Enabled"
+title: "Mise en Page: Date Publication Activée"
 show_date: true
 tags:
-  - post date
+  - date publication
 ---
 
 This post has post date enabled. The date the post was published should show if `show_date: true` is added to it's YAML Front Matter or as a default in `_config.yml`.
