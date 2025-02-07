@@ -9,6 +9,6 @@ tags:
 
 {{url}}
 
-{{sit.url}}
+{{site.url}}
 {{baseurl}}
 {{site.baseurl}}
