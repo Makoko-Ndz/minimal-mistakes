@@ -1,8 +1,8 @@
 ---
-title: "Layout: Read Time Enabled"
+title: "Mise en Page: Date Publication Activée"
 read_time: true
 tags:
-  - read time
+  - date publication
 ---
 
 This post has reading time enabled. The estimated time that it takes to read this post should show if also enabled in `_config.yml` with `read_time: true`.
