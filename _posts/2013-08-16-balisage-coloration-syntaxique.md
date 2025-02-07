@@ -1,6 +1,6 @@
 ---
 title: "Balisage: Coloration Syntaxique"
-excerpt: "Cette Publication présente les différents manières de mettre en place la coloration syntaxique dans Markdown."
+excerpt: "Cette Publication présente les différentes manières de mettre en place la coloration syntaxique dans Markdown."
 last_modified_at: 2018-01-03T09:45:06-05:00
 header:
   teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
