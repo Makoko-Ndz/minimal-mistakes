@@ -1,8 +1,8 @@
 ---
 title: "Publication: Image de superposition avec remplacement d'OpenGraph"
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  og_image: /assets/images/page-header-og-image.png
+  overlay_image: {{site.url}}{{site.baseurl}}/assets/images/unsplash-image-1.jpg
+  og_image: {{site.url}}{{site.baseurl}}/assets/images/page-header-og-image.png
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Learn More"
