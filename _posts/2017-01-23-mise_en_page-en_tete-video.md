@@ -1,15 +1,15 @@
 ---
-title: "Layout: Header Video"
+title: "Mise en Page: En-Tete avec Vidéo"
 header:
   video:
     id: -PVofD2A9t8
     provider: youtube
 categories:
-  - Layout
-  - Uncategorized
+  - Mise en Page
+  - non catégorisé
 tags:
-  - video
-  - layout
+  - vidéo
+  - mise en page
 ---
 
 This post should display a **header with a responsive video**, if the theme supports it.
