@@ -1,9 +1,9 @@
 ---
-title: "Edge Case: No Body Content"
+title: "Cas Particulier: Aucun contenu dans le corp"
 categories:
-  - Edge Case
+  - Cas Particulier
 tags:
-  - content
-  - edge case
-  - layout
+  - contenu
+  - cas particulier
+  - mise en page
 ---
