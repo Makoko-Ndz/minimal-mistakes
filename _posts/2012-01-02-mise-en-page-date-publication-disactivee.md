@@ -1,8 +1,8 @@
 ---
-title: "Layout: Post Date Disabled"
+title: "Mise en Page: Date Publication Désactivée"
 show_date: false
 tags:
-  - post date
+  - date publication
 ---
 
 This post has the date disabled. The date this post was published should not be showing if `show_date: false` is set in `_config.yml` or in this post's YAML Front Matter.
