@@ -1,7 +1,7 @@
 ---
 title: "Cas Particulier: Listes imbriquées et mixtes"
 categories:
-  - Edge Case
+  - Cas Particulier
 tags:
   - contenu
   - css
