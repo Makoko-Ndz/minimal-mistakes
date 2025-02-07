@@ -7,8 +7,4 @@ tags:
   - bac à sable
 ---
 
-{{url}}
-
-{{site.url}}
-{{baseurl}}
-{{site.baseurl}}
+{{site.url}}{{site.baseurl}}
