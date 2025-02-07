@@ -1,5 +1,5 @@
 ---
-title: "Edge Case: Many Categories"
+title: "Cas Particulier: Plusieurs Categories"
 categories:
   - aciform
   - antiquarianism
@@ -19,4 +19,4 @@ tags:
   - edge case
 ---
 
-This post has many categories.
+Cette oublication a plusieurs catégories.
