@@ -1,237 +1,382 @@
 ---
-title: "Statuts"
+title: "Règlement Intérieur"
 categories:
   - Documents Officiels
 tags:
-  - Statuts
-  - Documents Officiels
+  - règlement intérieur
+  - documents officiels
 toc: true
 toc_sticky: true
 ---
 
 ![](https://makoko-ndz.github.io/minimal-mistakes/assets/images/logo-reduit.png)
 
-STATUTS DE L'ASSOCIATION N'DZOUANA 
+# <span style="color: #ef6e39">I. DISPOSITIONS GENERALES</span>
+## <span style="color: #ef6e39">Article 1 : Cadre</span>
+Le présent règlement intérieur fixe les règles d'organisation et de fonctionnement de l'Association N'DZOUANA. Il s'applique obligatoirement à l'ensemble des membres de l’association ainsi qu'à chaque nouvel adhérent.
+[Retour au sommaire](#top)
+* * *
+## <span style="color: #ef6e39">Article 2 : Portée</span>
+Le présent règlement intérieur ne peut en aucun cas se substituer ni contrevenir aux points d'accord prévus par les statuts portant création de l'association N’DZOUANA.
+ [Retour au sommaire](#top)
+* * *
+# <span style="color: #ef6e39">II. LES MEMBRES</span>
+## <span style="color: #ef6e39">Article 3 : Adhésion</span>
+L'association peut à tout moment accueillir de nouveaux membres.
+Ceux-ci devront respecter les conditions et la procédure d'admission décrite dans l’article 7 des statuts de l’association.
+Le futur adhérent doit avoir obligatoirement pris connaissance des statuts et du règlement intérieur avant son adhésion.
+En cas de ré-adhésion le candidat est soumis aux mêmes règles qu’un nouvel adhérent.
+[Retour au sommaire](#top)
+* * *
+## <span style="color: #ef6e39">Article 4 : Fiche d’adhésion</span>
+Chaque candidat doit remplir un [questionnaire](:/a5e2d2fdeb054d5f8ea79193a4a299ac) qui permettra au bureau d’évaluer la pertinence de sa demande ainsi qu’une une [fiche de renseignements](:/be24234efe8f4a21aae01e1e06965ca1).
+Sur cette dernière figurent des informations telles que le nom, le prénom, l’adresse, le numéro de téléphone et le courriel du candidat, ainsi que des informations familiales nécessaires au fonctionnement du fond d’assistance mutuelle.
+[Retour au sommaire](#top)
+* * *
+## <span style="color: #ef6e39">Article 5 : Protection de la vie privée des adhérents</span>
+L’association N’DZOUANA met en œuvre un répertoire des membres de l’association regroupant des informations personnelles nécessaires au fonctionnement de l’association.
+Ce fichier est à l'usage exclusif de l’association, la contribution de chaque membre de l’association au renseignement de ce fichier, présente un caractère obligatoire.
+Les informations collectées font l'objet d'un traitement informatique et sont destinées exclusivement au bureau de l'association.
+L'association s'engage à respecter [la charte de la Commission Nationale de l'Informatique et des Libertés (CNIL)](https://www.cnil.fr/fr/la-loi-informatique-et-libertes).
+Le fichier des membres de l'association ne pourra être communiqué à quelconque personne étrangère ou entreprise en faisant la demande.
+L'association s'engage, également, à ne pas publier ces données nominatives sur Internet.
+Ce fichier peut donner lieu à l'exercice du droit d'accès et de rectification des données par chaque membre, selon les dispositions de la loi n°78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+Pour exercer ce droit et obtenir communication des informations le concernant, l'adhérent s'adressera au bureau de l'association.
+[Retour au sommaire](#top)
+* * *
+## <span style="color: #ef6e39">Article 6 : Délais de carence</span>
+Tout nouveau membre de l’association est soumis à un délai de carence tel que défini dans l’article 10 des statuts de l’association, sa durée est de six mois.
+[Retour au sommaire](#top)
+* * *
+## <span style="color: #ef6e39">Article 7 : Droits et devoirs des membres</span>
+Les membres de l’association acceptent de manière pleine et entière les statuts et le présent règlement intérieur.
+Ils s'engagent :
+- A la régularité dans le paiement de leurs cotisations ;
+- A respecter le matériel fourni par l'association ;
+- A ne pas entraîner de préjudice moral ou matériel à l'association et/ou aux autres membres ; 
+- A ne pas porter atteinte à autrui par des propos ou comportements inappropriés.
 
-<a name="top"></a>
+Les membres ont le droit :
+- D’élire, d’être élu au bureau de l’association à condition d’être à jour des cotisations ;
+- De désigner les membres et d’être membre des différentes commissions ;
+- D’émettre librement leurs opinions conformément aux textes réglementaires des statuts et du règlement intérieur ;
+- D’exiger le respect des statuts et du règlement intérieur.
 
-*Il est fondé entre les adhérents aux présents statuts et ceux qui y adhéreront ultérieurement une association régie par la loi du 1 juillet 1901 et le décret du 16 Août 1901 modifiés, ayant pour dénomination N'DZOUANA.*
-* * *
-# <span style="color: #ef6e39">Article 1 - 	Objet </span>
-L'association N'DZOUANA a pour objectifs de : 
-- Promouvoir la culture Téké à travers des spectacles de danses traditionnelles, organiser des manifestations pour révéler l’expression artistique et les objets ethniques du peuple Téké;
-- Réaliser des échanges culturels et économiques entre le Congo, la France et le reste du monde;
-- Mettre en place une synergie entre la diaspora congolaise et les partenaires économiques, pour dynamiser l’économie rurale et populaire du Congo.<br> Dans ce cadre, piloter des projets de développement local durable et inclusif;
-- Favoriser la solidarité entre les membres de l’association par la mise en place d’un fond d’assistance mutuelle.
+Les membres ont le droit et le devoir de participer ou d'être représentés aux assemblées générales et réunions mensuelles de l'association, avec voix délibératives, à condition qu'ils soient à jour de leur cotisation.
+Les membres doivent prendre part aux activités, aux projets et aux prestations de l'association, dans la limite, le cas échéant, du nombre de places disponibles.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 2 - 	Siège social</span>
-Le siège social de l'association N'DZOUANA est fixé à l'adresse suivante : 
-	13, rue de la tour – Chez M. ONKANI Alain Héléodore
-	95120 Ermont (France)
-Il pourra être transféré, après ratification par l'assemblée générale, par simple décision du bureau exécutif.
+## <span style="color: #ef6e39">Article 8 : Situation du membre</span><a name="situation"></a>
+Pour avoir le droit de voter lors des délibérations et élections de l’association, de bénéficier du fond d’assistance mutuelle et pour avoir accès aux prestations du groupe folklorique à titre gracieux, un membre de l’association doit être à jour.
+Cette situation s’entend, stricto sensu, lorsque le membre n’a aucun retard de cotisations, c’est-à-dire lorsque sa situation financière affiche un solde positif ou au minimum de zéro (0) euros.
+Toutefois, pour tenir compte des délais entre le moment où les virements sont effectués ou les chèques sont déposés, un montant de retard de cotisations est accepté par l’association.
+Son montant figure en [annexe](#retard) de ce document, il est réexaminé chaque année au moment de l’assemblée générale ordinaire.
+Un membre est considéré à jour lorsque sa situation financière présente un solde positif ou un débit inférieur au montant de retard de cotisation accepté.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39"> Article 3 - 	Durée</span>
-L'association est constituée pour une durée illimitée.
+## <span style="color: #ef6e39">Article 9 : Cas de plusieurs décès successifs</span>
+Dans le cas où deux décès ou plus surviennent dans le même mois, on ne tiendra compte exceptionnellement que de l'état de la situation financière du mois précédant les événements, sauf si avant l’annonce d’un décès le membre a amélioré sa situation par la remise d’espèces ou par virement bancaire.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 4 - 	Composition </span>
-L’association est composée de personnes physiques / morales qui intègrent la structure en qualité de :
-- De [membres actifs](#membre) ;
-- De [membres du groupe folklorique](#danseur) ;
-- De [membres honoraires](#honoraire) ;
-- De [membres d'honneur](#honneur) ;
-- De [membres bienfaiteurs](#bienfaiteur) .
+## <span style="color: #ef6e39">Article 10 : Démission</span>
+Toute démission devra être présentée par une lettre datée et signée par l’intéressé(e) et envoyée au président de l’association.
+Ne peut être démissionnaire que le membre à jour de ces cotisations, dans le cas contraire, cette démission sera transformée en radiation, conformément aux textes juridiques en vigueur régissant les démissions et radiations des associations de loi juillet 1901.
+[Retour au sommaire](#top)
+* * * 
+# <span style="color: #ef6e39">III. COTISATIONS</span>
+## <span style="color: #ef6e39">Article 11 : Droit unique d’adhésion</span>
+Ce droit d’adhésion est versé une seule fois, au moment de l’arrivée du nouveau membre dans l’association.
+Le montant de ce droit figure en [annexe](#adhesion) de ce document, il est réexaminé chaque année au moment de l’assemblée générale ordinaire.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 5 - 	Activités Artistiques</span>
-Afin de promouvoir la culture teke, une troupe artistique de folklore Teke a été créée au sein de l’association.
-
-Cette troupe est composée des membres du groupe folklorique et, de fait, de l’ensemble des membres actifs de l’association.
-Cette troupe peut être sollicitée pour animer différents types de manifestations.
-Le cadre de ces prestations est défini dans un contrat liant le demandeur à l’association. Cette troupe est administrée par la commission culturelle, placée sous l’autorité du président de l’association.
-Une [grille tarifaire](:/3d0448db0cb34ec9b48d5aa338189b8b) relative à ces prestations est définie par la commission culturelle et soumise à l’approbation du collège des membres du groupe folklorique et des membres actifs.
+## <span style="color: #ef6e39">Article 12 : Cotisation de fonctionnement</span>
+La cotisation de fonctionnement, dite « annuelle » est versée en début de chaque année civile. Les sommes collectées au titre de cette cotisation permettent de couvrir les frais de fonctionnement de l’association.
+Le montant de cette cotisation figure en [annexe](#cotisations) de ce document, il est réexaminé chaque année au moment de l’assemblée générale ordinaire.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 6 - 	Le fond d’assistance mutuelle</span>
-Pour institutionnaliser l’entraide mutuelle existante dans la communauté africaine et teke en particulier, où lorsqu'un décès survient, chacun apporte une aide physique et/ou matérielle aux personnes touchées, l'association a créé un fonds d'assistance mutuelle.
-Celui-ci permet de venir en aide rapidement à la personne éprouvée en assurant une présence active à la veillée et en lui versant une contribution dont le montant est fixé par le [règlement intérieur.](:/dd1c7140eb5441459f5a595016442bc8)
-Chaque membre actif non éprouvé permet ensuite de reconstituer ce fond en versant le montant de cotisation attendu pour ce type d’événement et définit par le [règlement intérieur.](:/dd1c7140eb5441459f5a595016442bc8)
-Un retard constaté sur le versement de ces cotisations est comptabilisé dans la situation financière générale de chaque membre.
+## <span style="color: #ef6e39">Article 13 : Cotisation de contribution aux projets</span>
+La cotisation de contribution aux projets, dite « mensuelle » est versée chaque mois de l’année civile, soit douze (12) fois. Les sommes collectées au titre de cette cotisation participent au financement des projets de l’association.
+Le montant de cette cotisation figure en [annexe](#cotisations)  de ce document, il est réexaminé chaque année au moment de l’assemblée générale ordinaire.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 7 - 	Adhésion</span>
-Toute personne souhaitant adhérer à l’association devra être majeure.
-Pour toute demande d’adhésion, le candidat devra assister à une réunion mensuelle de l’association en tant qu’observateur. S’il le souhaite, il pourra éventuellement assister à une seconde réunion.
-Passé cette période d’observation, le candidat se verra remettre, les statuts et le [règlement intérieur](:/dd1c7140eb5441459f5a595016442bc8) de l’association qu’il sera invité à lire. Il devra également renseigner le questionnaire d’adhésion et le retourner au bureau de l’association.
-Le bureau pourra alors examiner sa demande d’adhésion pour la valider ou non.
-En cas de refus, le bureau communiquera sa décision par mail au candidat et la motivation de celle-ci.
-En cas d’acceptation, le bureau invitera le futur membre pour la prochaine réunion mensuelle planifiée.
-Au cours de cette première réunion, le nouveau membre devra acquitter un droit d’adhésion, la cotisation annuelle pour l’année en cours et la valeur de deux cotisations mensuelles.
+## <span style="color: #ef6e39">Article 14 : Contribution au fond d’assistance mutuelle</span>
+Un fond d’assistance mutuelle, définit dans l’article 6 des statuts, a été mis en place par l’association.
+Ce fond permet, pour un certain nombre d’événements, listés en annexe, de verser une assistance financière au membre à jour de cotisations et concerné par cet évènement.
+En cas de décès, une prime, dont le montant varie en fonction du degré de parenté du défunt, est versée au membre éprouvé.
+Pour reconstituer cette avance de fond faite par l’association, les membres de l’association sont tenus de verser une cotisation décès dont le montant varie en fonction du degré de parenté du défunt. 
+Seul le membre éprouvé est dispensé de ce versement.
+La définition des événements couverts, le barème des primes versées et le montant des cotisations sont décrits dans un tableau figurant en [annexe](#mutuelle) .
+Le tableau est réexaminé chaque année au moment de l’assemblée générale ordinaire.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 8 - 	Membres</span>
-## <span style="color: #ef6e39">Est membre actif :</span> <a name="membre"></a>
-- Toute personne ayant adhéré à l’association qui s'acquitte de ses cotisations et participe régulièrement aux activités de l'association.
-- Seuls les membres actifs à jour de cotisations ou n’étant pas en retard de cotisations, au sens définit dans le [règlement intérieur](:/dd1c7140eb5441459f5a595016442bc8), peuvent prendre part aux votes, prétendre au bénéfice d’une prestation à titre gracieux et bénéficier d’une assistance financière.
-- Tout membre actif est membre du groupe folklorique sans être soumis aux cotisations de ce groupe.
-- Le retard de cotisation autorisé est défini par l’assemblée générale ordinaire annuelle, son montant, pour l’année à venir, figure en annexe du [règlement intérieur.](:/dd1c7140eb5441459f5a595016442bc8)
-[Retour au sommaire](#top)
-## <span style="color: #ef6e39">Est membre du groupe folklorique :</span> <a name="danseur"></a>
-- Toute personne ayant adhérée au groupe folklorique de l’association et qui participe régulièrement aux activités de ce groupe.
-- Ces membres sont soumis à une cotisation annuelle, payable en début de chaque année.
-- Cette cotisation est révisée chaque année, lors de l’assemblée générale ordinaire.
-- Les membres du groupe folkloriques ne font pas parti des membres actifs de l’association, ils ne sont, de fait, soumis à aucune cotisation due par les membres actifs de l’association, ne peuvent prendre part à aucun vote de l’association, ni prétendre au bénéfice d’une assistance mutuelle.
-[Retour au sommaire](#top)
-## <span style="color: #ef6e39">Est membre honoraire : </span><a name="honoraire"></a>
-- Tout ancien membre actif qui ne prend plus part à la vie de l’association mais qui du fait de son implication passée mérite d’y laisser une trace.
-- Les membres honoraires peuvent s’ils le souhaitent assister aux réunions et aux manifestations organisées par l’association.
-- Ils sont dispensés de cotisations statutaires, ne peuvent prendre part à aucun vote de l’association, ni ne peuvent prétendre au bénéfice d’une prestation à titre gracieux, ni à une assistance mutuelle.
-[Retour au sommaire](#top)
-## <span style="color: #ef6e39">Est membre d'honneur : </span><a name="honneur"></a>
-- Toute personne qui, par sa sagesse, a rendu ou continue de rendre des services à l'association.
-- Les membres d’honneur sont dispensés de cotisations statutaires et ne peuvent prétendre au bénéfice d’une prestation à titre gracieux, ni à une assistance mutuelle.
-- La durée de leur statut est de 2 ans renouvelable et sera examiné lors de l’assemblée générale ordinaire à chaque date anniversaire.
-[Retour au sommaire](#top)
-## <span style="color: #ef6e39">Est membre bienfaiteur : </span><a name="bienfaiteur"></a>
-- Toute personne physique ou morale qui contribue matériellement, financièrement ou intellectuellement de manière épisodique aux actions de l'association.
-- Les membres bienfaiteurs sont dispensés de cotisations statutaires et ne peuvent prétendre au bénéfice d’une prestation à titre gracieux, ni à une assistance mutuelle. La durée de leur statut est de 2 ans renouvelable et sera examiné lors de l’assemblée générale ordinaire à chaque date anniversaire.
+## <span style="color: #ef6e39">Article 15 : Contribution repas</span>
+Tout membre recevant une réunion de l’association chez lui, perçoit une somme forfaitaire afin de participer aux frais de la collation offerte par ce membre.
+Cette somme, avancée par l’association, est compensée par la cotisation repas que tous les membres sont tenus de verser.
+Le membre, ou le couple, recevant l’association est exempté de cette cotisation ainsi que les membres ayant annoncé leur absence au plus tard une semaine avant la réunion.
+Le montant de cette cotisation figure en [annexe](#repas)  de ce document, il est réexaminé chaque année au moment de l’assemblée générale ordinaire.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 9 - 	Cotisations des membres</span>
-Les cotisations pour les membres actifs sont les suivantes :
-- Un droit unique d’adhésion ;
-- Une cotisation annuelle pour les frais de fonctionnement de l’association ;
-- Une cotisation mensuelle pour le financement des projets de l’association ;
-- Les cotisations de solidarité pour la contribution au fond d’assistance mutuelle.
-
-Les membres du groupe folklorique de l’association doivent s’acquitter d’une cotisation annuelle pour les frais de fonctionnement de ce groupe.
-Toutes ces cotisations ont un caractère obligatoire.
-Les montants de ces cotisations sont définis dans l’annexe du [règlement intérieur du groupe folkorique](:/545feeed590d487eb76ed678b872e485)
-Toute cotisation versée à l'association est définitivement acquise. Aucun remboursement de cotisation ne peut être exigé en cas de démission, d'exclusion ou de décès d'un membre.
+ # <span style="color: #ef6e39">IV. ORGANISATION ET FONCTIONNEMENT</span>
+## <span style="color: #ef6e39">Article 16 : Droit de vote</span>
+Pour pouvoir exprimer son vote, le membre devra être à jour de cotisation tel que défini dans[ l’article 8](#situation)  du présent règlement.
+Tout membre à jour peut donner son mandat de vote à un autre membre à jour présent lors de l'assemblée.
+Ce mandat doit être remis par écrit (mail, lettre, ou SMS) au président ou au bureau en précisant le nom du membre qui a mandat pour son vote.
+Un membre mandaté ne peut détenir qu'une seule procuration.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 10 - 	Délais de carence</span>
-Pour se prémunir de tout effet d’aubaine, l’association a mis en place un délai de carence concernant les nouveaux adhérents.
-Ces derniers ne pourront bénéficier d’un accès au fond d’assistance mutuel et aux prestations artistiques de la troupe folklorique à titre gracieux qu’une fois ce délai écoulé.
-La durée du délai de carence est définie dans le [règlement intérieur](:/dd1c7140eb5441459f5a595016442bc8), il pourra être modifié, après ratification par l'assemblée générale, par simple décision du bureau exécutif.
+## <span style="color: #ef6e39">Article 17 : Quorum</span><a name="quorum"></a>
+Les assemblées générales et réunions mensuelles de l’association ne délibèrent valablement que si la moitié plus un au moins des représentants des membres actifs, à jour de cotisations, sont présents ou représentés.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 11 - 	Perte de la qualité de membre</span>
-La qualité de membre se perd par :
-- Élément de listeLe décès ;
-*En cas de décès, la qualité de membre s'efface avec la personne.*
-- La démission donnée par écrit au président de l’association ;
-- La radiation.
-*La radiation d’un membre qui s’est rendu responsable d’une faute grave est proposée par le bureau, la décision de radiation revient à l’assemblée générale.
-Les modalités de la procédure sont définies dans le [règlement intérieur.](:/dd1c7140eb5441459f5a595016442bc8)* 
+## <span style="color: #ef6e39">Article 18 : Assemblée Générale</span>
+L’assemblée générale réunit tous les membres au mois de mars afin de revoir la vie de l’association, son organisation, sa bonne marche et ses finances.
+Si le quorum, tel que défini à[ l’article 17](#quorum), n'est pas atteint, l'assemblée générale est convoquée à nouveau avec le même ordre du jour dans un délai de 15 jours, et délibère dans les mêmes conditions.
+Le(la) président(e) ou en son absence le(la) vice-président(e), assisté(e) des membres du bureau, préside l'Assemblée ; il(elle) déclare l'ouverture et la clôture de l'Assemblée.
+Le(la) secrétaire général(e) ou en son absence le(la) secrétaire adjoint(e) expose la situation morale de l'association.
+Le(la) représentant(e) de la commission projet présente le rapport de cette commission, ce dernier permet de constater si les objectifs fixés lors de l’assemblée générale précédente ont été atteints et si les budgets affectés ont été respectés.
+Sont ensuite débattus les objectifs, le plan d’action et les budgets de cette commission, pour l’exercice à venir. Une fois définis, ils sont soumis à l'approbation de l’assemblée générale.
+Le(la) trésorier(ière) ou en son absence le(la) trésorier(ière) adjoint(e) rend compte de sa gestion et après avoir écouté le retour de la commission de vérification, ce bilan est soumis à l'approbation de l'assemblée générale.
+Le montant des différentes cotisations et primes sont examinés et éventuellement réévalués, puis soumises à l'approbation de l'assemblée générale.
+La commission culturelle a la possibilité de demander une évolution de la grille tarifaire relative aux prestations du groupe folklorique. Cette demande motivée est défendue devant l’assemblée générale puis soumise à l'approbation de celle-ci.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 12 - 	Ressources</span>
-Les ressources de l'association N'DZOUANA comprennent :
-- Les droits d'adhésion et les cotisations annuelles et mensuelles ; 
-- Les sommes provenant de la vente de produits par l'association ;
-- Les sommes provenant des prestations du groupe folklorique de l'association ;
-- Les subventions Européennes, des États, des Régions, des Départements et des Communes ;
-- Les divers dons et legs de personnes respectueuses des objectifs poursuivis par l'association N'DZOUANA ;
-- Les sommes versées dans le cadre d’un partenariat avec toute société ou association.
+## <span style="color: #ef6e39">Article 19 : Réunions mensuelles</span>
+Les réunions de l’association se tiennent une fois par mois sauf juillet, août et décembre.
+Une réunion ne peut avoir lieu que si au moins deux membres du bureau sont présents.
+En cas d'absence ou de retard important du (de la) président(e) et du (de la) vice-président(e) préside la réunion.
+En cas d’absence du (de la) président(e) et du (de la) vice-président(e), un membre du bureau présent peut assurer la présidence de la réunion.
+En cas de besoin une réunion exceptionnelle peut être convoquée.
+Le compte rendu de la réunion précédente est lu au début de chaque séance et soumis à l’approbation des membres présents avant d’être expédié aux membres uniquement par courriel et WhatsApp.
+La présence de tous est obligatoire aux réunions ; en cas d’absence non justifiée de plus de trois mois, un avertissement sera infligé, sous forme écrite.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 13 - 	Bureau</span>
-Le Bureau de l'association N'DZOUANA est élu pour une durée de trois ans et est composé : 
+## <span style="color: #ef6e39">Article 20 : Assemblée générale extraordinaire</span>
+Si besoin, et à la demande des 3/4 des membres du bureau ou sur demande de plus de la moitié des membres de l'association, une assemblée générale extraordinaire peut être convoquée.
+L’assemblée générale extraordinaire est convoquée pour la révision des textes de l’association, pour raison disciplinaire ou en cas de situation exceptionnelle.
+[Retour au sommaire](#top)
+* * *
+## <span style="color: #ef6e39">Article 21 : Bureau</span>
+Le bureau de l’association N’DZOUANA est élu pour une durée de trois ans et est composé :
 - D’un(e) président(e) et d’un(e) vice- président(e) ;
 - D’un(e) secrétaire général(e) et de au moins un(e) adjoint(e) ou deux au maximum ;
-- D’un(e) trésorier(ère) et d’un(e) adjoint(e).
+- D’un(e) trésorier(ière) et d’un(e) adjoint(e).
 
-La liste des membres du bureau figure en [annexe de ce document](#annexe).
+La liste des membres élus figure en annexe des statuts.
+Un membre sortant peut se représenter autant de fois qu’il le souhaite.
+Un membre peut quitter le bureau sans obligation de fournir des explications, mais il doit impérativement informer le bureau par lettre recommandée ou faire convoquer une réunion au cours de laquelle il devra remettre sa lettre de démission.
+En cas de poste vacant, celui-ci sera pourvu lors d'une assemblée générale extraordinaire et le mandat prendra fin en même temps que celui du bureau déjà en place.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 14 - 	Fonctionnement du bureau</span>
-Le Bureau de l'association N'DZOUANA se réunit en fonction des besoins, en réunion ordinaire, et à tout moment en réunion extraordinaire, sur convocation du président ou sur la demande d'au moins un quart de ses membres.
-Les décisions sont prises à la majorité des voix ; en cas de besoin de partage, la voix du président est prépondérante.
-En fonction des sujets abordés, le bureau se réserve la possibilité d’inviter, à titre consultatif, des membres d’une commission de l’association ou des personnalités du monde des arts, des médias, etc.… dont l'intérêt pour l'association est réel.
-Chaque membre du Bureau peut prendre la décision de quitter le bureau.
-Tout membre du Bureau qui, sans excuse, n'aura pas assisté à trois réunions consécutives du bureau, sera considéré comme démissionnaire.
+## <span style="color: #ef6e39">Article 22 : Attributions :</span>
+### <span style="color: #ef6e39">a. Président(e) :</span>
+Il(elle) préside et coordonne les activités de l’association, dirige les travaux du bureau, représente l’association à l’extérieur, ordonne les dépenses de fonctionnement de l’association après consultation et acceptation du bureau ou de l’assemblée.
+Le(la) vice-président(e) assiste le(la) président(e) et le(la) remplace en cas d'absence.
+### <span style="color: #ef6e39">b. Secrétaire général(e) :</span>
+Il(elle) est chargé(e) de l’administration de l’association, établit l’ordre du jour sur proposition du bureau, rédige en collaboration avec son adjoint(e) ou avec un membre désigné par l’assemblée pour la circonstance comme secrétaire de séance, les procès-verbaux.
+Le(la) secrétaire général(e) ou son adjoint(e) fait les comptes rendus des réunions, tient les documents administratifs de l’association.
+Il (elle) présente les rapports d’activités de l’association à l’assemblée générale. Le(la) secrétaire général(e) doit travailler en collaboration avec son adjoint(e).
+### <span style="color: #ef6e39">c. Trésorier(ière) :</span>
+Il(elle) collecte les fonds, cotisations, dons, legs, il(elle) tient la comptabilité de l’association au jour le jour, consigne avec le(la) secrétaire général(e) tous les documents comptables sous l’approbation du (de la) président(e).
+Il(elle) assure le suivi des dépenses, des comptes bancaires, le remboursement des frais et le paiement des fournisseurs.
+Il(elle) rend compte de sa gestion et soumet son bilan à l’approbation de l’assemblée générale. Le(la) trésorier(ière) adjoint(e) assiste le(la) trésorier(ière) et le(la) remplace en cas d'absence.
+ [Retour au sommaire](#top)
+* * *
+# <span style="color: #ef6e39">V. REGLEMENTATION FINANCIERE</span>
+## <span style="color: #ef6e39">Article 23 : Modalités d'engagement des dépenses</span>
+Les membres du bureau peuvent effectuer pour le compte de l'association toutes les dépenses utiles à la réalisation de l'objet statutaire.
+Toutefois chaque dépense devra faire l’objet d’une discussion au sein du bureau avant sa validation. 
+De même, tout membre de l’association peut être à l’initiative d’un achat en accord avec l’objet de l’association.
+Dans ce cas, il devra saisir le bureau par courriel pour exposer sa proposition et la faire valider.
+En cas de réponse positive, il pourra, s’il le souhaite réaliser l’achat pour le compte de l’association.
+Ces dépenses ne pourront être remboursées que sur présentation d’un justificatif de la dépense laissant apparaitre clairement, la nature de celle-ci ainsi que les références du commerce où a été réalisé l’achat.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 15 - 	Règles communes à toutes les assemblées et réunions mensuelles</span>
-Il est rédigé un procès-verbal de chaque assemblée et réunion mensuelle.
-Les procès-verbaux sont signés par le (la) président(e) de séance ou par le (la) secrétaire, Ils sont établis sans blanc, ni ratures sur des feuilles numérotées et conservées dans un registre au siège de l'association. Ils sont également envoyés à tous les membres de l'association par courrier électronique.
-Les décisions prises au cours des assemblées générales et réunions mensuelles devront faire l'objet d'un vote et ne pourront plus être remises en cause.
-Seuls les membres actifs à jour de cotisations ou n’étant pas en retard de cotisations, au sens définit dans le [règlement intérieur](:/dd1c7140eb5441459f5a595016442bc8), peuvent prendre part aux votes.
-Les membres actifs absents lors d'une assemblée générale ou d'une réunion mensuelle pourront donner mandat écrit et dûment signé pour le vote à un membre actif présent ou envoyer un mail ou un SMS à un membre du bureau désignant le porteur de la procuration. Chaque membre actif présent ne pourra détenir plus d'une procuration.
+## <span style="color: #ef6e39">Article 24 : Modalités de remboursements des frais</span>
+Les frais justifiés par l'activité réelle d’un membre dûment missionné par l'association sont remboursés sur présentation des pièces justificatives.
+Les remboursements des produits et services payés pour le compte de l'association par un membre ne subissent pas d'autres limitations que celles qui s’imposent à l'association, si elle les avait payés directement.
+Pour les frais de déplacement automobile et de transport en général, aucun remboursement ne peut être pris en charge par l’association.
+Les seuls déplacements indemnisés sont ceux réalisés dans le cadre d’une prestation du groupe folklorique de nuit en Ile-de-France ou en région sans restriction horaire. Dans ce cas, ces frais font partie du montant de la prestation facturée au demandeur.
+Les frais de déplacement réalisés dans le cadre d’un projet pourront également être indemnisés. Dans ce cas, ses frais font partie du budget du projet.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 16 - 	Réunion mensuelle</span>
-Les réunions de l’association se tiennent une fois par mois sauf pour les mois de juillet, août et décembre.
-Une réunion ne peut avoir lieu que si au moins deux membres du bureau sont présents.
-En cas d'absence ou de retard important du (de la) président(e), le (la) vice-président(e) anime la réunion.
-En cas de besoin, une réunion exceptionnelle supplémentaire peut être convoquée.
-Le procès-verbal de la réunion précédente est lu au début de chaque séance et soumis à l’approbation des membres présents, il est ensuite signé. Il sera conservé dans le registre au siège et envoyé aux membres uniquement par courriel, conformément aux règles définies dans l’article 15 de ces statuts.
-La présence de tous est obligatoire aux réunions ; en cas d’absence non justifiée de plus de trois mois, un avertissement sera infligé.
+## <span style="color: #ef6e39">Article 25 : Moyens de paiement</span>
+Les moyens de paiement à disposition de l’association sont les virements et chèques bancaires.
+Les paiements en espèces sont à prohiber.
+Pour les virements bancaires seuls le(la) trésorier(ière) et le(la) trésorier(ière) adjoint(e) sont habilités à les utiliser.
+Concernant le chéquier, il est détenu par le président qui est le seul à avoir déposé sa signature auprès de la banque.
+Avant tout paiement, l’ensemble du bureau devra être interrogé et avoir donné son accord.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 17 - 	Assemblée Générale ordinaire</span>
-L'assemblée générale ordinaire accueille tous les membres de l'association à quelque titre qu'ils y soient affiliés. Elle se réunit chaque année au mois de mars sauf situation exceptionnelle.
-Quinze jours au moins avant la date fixée, les membres de l'association sont convoqués par les soins du (de la) secrétaire général(e). L'ordre du Jour est indiqué sur les convocations. 
-Une assemblée générale ne peut être annulée que par la majorité des membres du bureau.
-Ne sont traitées, lors de l'Assemblée Générale, que les questions soumises à l'ordre du Jour.
-L'assemblée générale ordinaire ne délibère valablement que si la moitié plus un au moins des représentants des membres actifs (à jour de cotisations) sont présents ou représentés.
-Si ce quorum n'est pas atteint, l'assemblée générale est convoquée à nouveau avec le même ordre du jour dans un délai de 15 jours, et délibère dans les mêmes conditions.
+# <span style="color: #ef6e39">VI. COMMISSIONS</span>
+## <span style="color: #ef6e39">Article 26 : Les commissions</span>
+Des commissions sont créées dans la structure de l’association, elles permettent de prendre en charge des problèmes spécifiques et de décharger les activités du bureau.
+Ces commissions doivent rendre compte de leurs travaux au bureau et avoir son aval avant toute prise de décisions.
+Les commissions peuvent subir à tout moment des modifications dans leur composition selon les besoins de l’association.
+Chaque membre de l’association peut à tout moment apporter sa contribution aux différentes commissions quand il le souhaite.
+Les membres de chaque commission sont désignés pour une durée de 3 ans à compter de la date à laquelle ils ont été officiellement désignés.
+### <span style="color: #ef6e39">a. Commission de contrôle et vérification :</span>
+Elle est composée de deux membres.
+Cette commission est chargée de vérifier et de contrôler la gestion des comptes de l’association.
+Elle vérifie également le matériel de l’association.
+### <span style="color: #ef6e39">b. Commission culturelle :</span>
+Elle est composée à minima de deux membres.
+Cette commission est chargée d’organiser et de superviser le fonctionnement du groupe folklorique de l’association.
+Elle assure également la gestion des membres de ce groupe en s’appuyant sur le [règlement intérieur](:/545feeed590d487eb76ed678b872e485) propre à la troupe.
+Cette commission est chargée de veiller à la bonne promotion de la culture Téké sur le plan artistique.
+Elle gère les prestations du groupe folklorique en pilotant l’ensemble des étapes depuis l’invitation jusqu’à réalisation de la prestation, établissement du contrat, définition de la liste des titres retenus pour la prestation.
+Elle a autorité pour convoquer et diriger les membres du groupe folklorique et les membres actifs de l’association pour les prestations.
+Elle supervise les répétitions et gère le matériel du groupe folklorique, bannière, sonorisation, accessoires, tenues individuelles ou partagées.
+### <span style="color: #ef6e39">c. Commission communication :</span>
+Elle est composée de deux membres.
+Cette commission est chargée de l’information, les représentants ne doivent communiquer à qui de droit que les informations émanant du bureau ou susvisées par le bureau.
+Le groupe WhatsApp « Groupe N’dzouana » est la plateforme d’échange et d’information des membres de l’association.
+Les membres de commission communication en sont les administrateurs et les modérateurs.
+Les règles d’utilisation de ce groupe sont détaillées dans la [charte d’utilisation](:/e45bc1b394c14536b6c4c213d7e10b50) en annexe de ce document.
+### <span style="color: #ef6e39">d. Commission chargée des affaires sociales :</span>
+Elle est composée au minimum de deux membres.
+Cette commission s’occupe du volet social de l’association.
+Les membres qui rencontrent des problèmes peuvent la contacter afin d’étudier d’éventuelles possibilités d’assistance qui seront soumises au bureau pour être validées avant toute décision.
+A cet effet, le bureau, peut octroyer à tout membre une assistance financière exceptionnelle sur proposition de la commission des affaires sociales et sous le regard de la commission de contrôle et de vérification.
+### <span style="color: #ef6e39">e. Commission suivi des projets :</span>
+Elle est composée, au minimum, de trois membres.
+Elle est chargée de suivre les projets de l’association en collaboration avec le bureau.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 18 - 	Assemblée Générale extraordinaire </span>
-Si besoin est, une assemblée générale extraordinaire peut être convoquée par le président à la demande des 3/4 (trois quarts) des membres du bureau ou sur la demande de la moitié plus un des membres actifs et à jour de cotisations ou n’étant pas en retard de cotisations, au sens définit dans le [règlement intérieur.](:/dd1c7140eb5441459f5a595016442bc8)
-Ne sont traitées, lors de l'assemblée générale extraordinaire, que les questions soumises à l'ordre du jour.
-L'assemblée générale extraordinaire ne délibère valablement que si la moitié plus un au moins des représentants des membres actifs (à jour de cotisations) de l'assemblée générale sont présents ou représentés.
-Si ce quorum n'est pas atteint, l'assemblée générale est convoquée à nouveau avec le même ordre du jour dans un délai de 15 jours, et délibère dans les mêmes conditions.
-Les délibérations de l'assemblée générale extraordinaire sont prises à la majorité absolue des voix des membres présents ou représentés.
+## <span style="color: #ef6e39">Article 27 : Commissions ad’ hoc</span>
+Des commissions ad’ hoc peuvent être mises en place selon les besoins de l’association. Elles sont initiées par le bureau et approuvées en réunion.
+[Retour au sommaire](#top)
+* * * 
+# <span style="color: #ef6e39">VII. PROCÉDURES DISCIPLINAIRES</span>
+## <span style="color: #ef6e39">Article 28 : Les fautes</span>
+Les membres de l'association sont tenus de respecter les [statuts](:/272f0b2359794c569ec152d13b92f5bc) et le présent règlement intérieur.
+Afin de nous permettre de réagir à tout manquement envers ces textes et nous assurer que nos échanges puissent toujours se dérouler de manière sereine, l’association a mis en place une échelle de sanction en classifiant les fautes en deux catégories, les fautes légères et les fautes graves.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 19 - 	Indemnités et remboursement de frais</span>
-Toutes les fonctions, y compris celles des membres du bureau, sont gratuites et bénévoles. Seuls les frais occasionnés par l’accomplissement de leur mandat sont remboursés sur justificatifs.
-Tout membre de l’association peut dans l’intérêt de celle-ci engager des dépenses pour contribuer à son amélioration sous réserve d’avoir, avant d’engager cette dépense, reçu l’aval du (de la) président(e) et du (de la) trésorier(ère).
-Ces dépenses seront alors considérées comme des frais de fonctionnement de l’association et seront remboursées sur présentation d’un justificatif de la dépense laissant apparaitre clairement, la nature de celle-ci ainsi que les références du commerce où a été réalisé l’achat.
-La somme engagée pourra alors soit être remboursée au membre par le moyen de son choix, espèces, chèque ou virement ou alors créditée sur son compte de membre au même titre qu’une cotisation versée.
-Le membre pourra également faire le choix de faire don de cette somme à l’association.
-Le rapport financier, présenté à l’assemblée générale ordinaire, présente par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
+## <span style="color: #ef6e39">Article 29 : Faute légère :</span>
+La faute légère est avérée lorsqu’un membre se rend coupable de l’un des faits suivants, cette liste n’est pas limitative :
+* La perturbation de réunion, en empêchant par son attitude la tenue d’une réunion ou la poursuite des travaux dans une ambiance sereine ;
+* Le manque de considération vis-à-vis d’autres membres de l’association, en faisant des réflexions négatives à leur endroit, en proférant des insultes lors de la réunion, en colportant des informations de nature privée avérées ou non dans le but de discréditer un membre ;
+* Le manque de respect envers le matériel de l’association ou des lieux où se tiennent les réunions.
+
+Tout membre ayant eu ce genre de comportement s’expose aux sanctions suivantes :
+* Le rappel à l’ordre ;
+* L’avertissement ;
+* L’exclusion de la salle de réunion.
+
+La sanction à appliquer sera prononcée par le bureau de manière proportionnelle aux faits constatés, avec effet immédiat.
+En cas de récidive, la faute légère pourra être requalifiée en faute grave.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 20 - 	Règlements intérieurs</span>
-Le [règlement intérieur](:/dd1c7140eb5441459f5a595016442bc8) de l’association Ndzouana est établi par le Bureau et approuvé par l'assemblée générale. Il est destiné à préciser en détail les points définis dans les statuts et définir les points non prévus dans les statuts.
-Le [règlement intérieur du groupe folklorique](:/545feeed590d487eb76ed678b872e485)  de l’association Ndzouana est établi par le Bureau et la commission culturelle. Il est approuvé par l’assemblée générale. Il est destiné à préciser en détail le fonctionnement du groupe folklorique.
+## <span style="color: #ef6e39">Article 30 : Faute grave :</span>
+La faute grave est avérée lorsqu’un membre se rend coupable de l’un des faits suivants :
+- Le non-respect des statuts et du règlement intérieur ;
+- La diffamation ;
+- Les menaces verbales ou physiques ;
+- La violence verbale ou physique ;
+- L’utilisation des biens de l’association à des fins personnelles ;
+- Le détournement de fonds ;
+- L’abus de pouvoir ;
+- Le refus d’exécuter des décisions arrêtées par la majorité ;
+- Le non-paiement des cotisations ;
+- De très nombreuses absences répétées (supérieures à 6) aux réunions mensuelles dans l’année civile.
+
+Toute membre ayant eu ce genre de comportement s’expose aux sanctions suivantes :
+- La suspension ;
+- La radiation.
+
+Les sanctions, en cas des fautes graves, sont proposées par le bureau et soumises au vote en assemblée générale extraordinaire, après l’audition du membre devant le bureau.
+
+Tout membre suspendu perd ses droits de participation aux activités de l'association.
+La suspension peut dépasser trois (3) mois sur décision du bureau.
+Après deux récidives, une radiation est prononcée.
+
+Toute radiation est considérée comme une exclusion définitive sans possibilité de réintégration.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 21 - 	Modification des statuts</span>
-L'assemblée générale extraordinaire est seule compétente pour modifier les statuts, le [règlement intérieur](:/dd1c7140eb5441459f5a595016442bc8) et décider de sa fusion avec d'autres associations.
+## <span style="color: #ef6e39">Article 31 : Le recours</span>
+Dans les deux semaines qui suivent la décision de sanction, tout membre suspendu peut faire un recours devant le bureau.
+[Retour au sommaire](#top)
+* * * 
+# <span style="color: #ef6e39">VIII. DISPOSITIONS PARTICULIÈRES</span>
+## <span style="color: #ef6e39">Article 32 : Confidentialité</span>
+La liste de l'ensemble des membres de l'association est strictement confidentielle.
+Tout membre de l'association s'engage à ne pas divulguer à autrui les coordonnées et informations personnelles des autres membres de l'association qu'il a connues par le biais de son adhésion à l'association.
 [Retour au sommaire](#top)
 * * *
-# <span style="color: #ef6e39">Article 22 - 	Dissolution de l'association</span>
-La dissolution est prononcée lors d'une assemblée générale extraordinaire convoquée par le président. Elle est prononcée par les deux tiers au moins des membres présents à l'assemblée générale, un ou plusieurs liquidateurs sont nommés par celle-ci, et l'actif, s'il y a lieu, est dévolu conformément à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.
+## <span style="color: #ef6e39">Article 33 : Révision du règlement intérieur</span>
+La révision du règlement intérieur relève de la compétence de l’assemblée générale.
 [Retour au sommaire](#top)
 * * *
-Fait à Ermont, le 29 avril 2023
-Signatures
-|Le président|Le secrétaire général|
-|---|---|
-|Alain Héléodore ONKANI|Lilian LIKIBI NKOUA-
+## <span style="color: #ef6e39">Article 34 : Points non précisés</span>
+Les points non précisés dans les statuts et le règlement intérieur font l’objet d’une délibération du bureau.
+[Retour au sommaire](#top)
+* * *
+## <span style="color: #ef6e39">Article 35 : Adoption</span>
+Le présent règlement intérieur entre en vigueur à compter de la date de son adoption.
+[Retour au sommaire](#top)
+* * *
+
+Adopté le 10 juin 2023
 
  
-
 * * *
-# ANNEXE <a name="annexe"></a>
-## Composition du bureau :
-|Poste|Membre élu|
-|---|---|
-|Président :|Alain Héléodore ONKANI|
-|Vice-présidente : |Rachel AYOUKA FRAUD|
-|Secrétaire général : |Lilian LIKIBI NKOUA|
-|Secrétaire adjointe : |Amandine TSAKION LEWALIBARI|
-|Trésorier général : |Christian PERRIN|
-|Trésorier adjoint : |Fernand ASSIORO |
+# <span style="color: #ef6e39">ANNEXE</span> <a name="annexe"></a>
+
+Les montants désignés ci-dessous sont susceptibles de modification.
+
+Montants révisés le 10 juin 2023
+
+## <span style="color: #ef6e39">Cotisations des membres actifs</span> <a name="cotisations"></a>
+|Cotisation|montant|
+|---|---:|
+|Droit d'adhésion<br></br>|15 €<br>_(quinze euros)_</br>|
+|Cotisation annuelle de fonctionnement<br></br>|15 €<br>_(quinze euros)_</br>|
+|Cotisation mensuelle<br></br>|10 €<br>_(dix euros)_</br>|
+[Retour au sommaire](#top)
+* * *
+## <span style="color: #ef6e39">Adhésion </span><a name="adhesion"></a>
+Pour chaque adhésion, le nouveau membre doit acquitter :
+| Cotisations|Montant |
+| --- | ---: |
+| Un droit d'adhésion unique de :<br></br>|15 €<br>_(quinze euros)_</br>|
+| Une cotisation annuelle de fonctionnement de :<br></br>|15 €<br>_(quinze euros)_</br>|
+| Deux mois de cotisations mensuelles, soit :<br></br>|20 €<br>_(vingt euros)_</br>|
+| **Soit un total de :**<br></br>| **50 €**<br>_(cinquante euros)_</br>|
+[Retour au sommaire](#top)
+* * *
+## <span style="color: #ef6e39">Retard de cotisations </span><a name="retard"></a>
+Montant de retard de cotisations accepté : **60 € (soixante euros)**
+
+[Retour au sommaire](#top)
+* * *
+## <span style="color: #ef6e39">Contribution repas </span><a name="repas"></a>
+Contribution forfaitaire versée à un membre ou à un couple de membres recevant une réunion de l’association afin de participer aux frais de la collation offerte
+| Cotisation|Montant versé|Contribution attendue|
+| ---| ---: |---:|
+| Versée en contribution au repas :<br></br>| **100 €**<br>_(cent euros)_</br> |<span style="color: #6d81b8">_5 €<br>(cinq euros)_</span></br>|
+
+[Retour au sommaire](#top)
+* * *
+## <span style="color: #ef6e39">Contribution au fond d’assistance mutuelle</span> <a name="mutuelle"></a>
+Dans les cas de décès, les membres de l’association sont tenus de verser une cotisation dont le montant varie en fonction du degré de parenté du défunt. 
+|Cotisation|Montant versé|Contribution attendue|
+| --- | ---: | ---:|
+|En cas de décès d’un membre<br></br>|**2000 €** <br>_(deux mille euros)_</br>|<span style="color: #6d81b8">_100 €<br>(cent euros)_</span></br>|
+|En cas de décès du conjoint ou de la conjointe d'un membre<br></br>|**1000 €**<br>_(mille euros)_</br> |<span style="color: #6d81b8">_50 €<br>(cinquante euros)_</span></br> |
+|En cas de décès de l'enfant d'un membre<br></br>|**1000 €**<br>_(mille euros)_</br> |<span style="color: #6d81b8">_50 €<br>(cinquante euros)_</span></br> |
+|En cas de décès du père ou de la mère d'un membre<br></br>|**1000 €**<br>_(mille euros)_</br> |<span style="color: #6d81b8">_50 €<br>(cinquante euros)_</span></br> |
+|En cas de décès du frère ou de la sœur d'un membre<br></br>|**500 €**<br>_(cinq cents euros)_</br> |<span style="color: #6d81b8">_25 € <br>(vingt-cinq euros)_</span></br> |
+
+Pour les évènements heureux, les primes versées par l’association ne nécessitent par la participation des membres.
+| Cotisation|Montant versé |
+| ---| ---:|
+| Pour le mariage d'un membre<br>_(fournir une carte d’invitation)_|**500 €**<br>_(cinq cents euros)_|
+| Pour la naissance de l’enfant d’un membre<br>_(fournir acte de naissance)_| **150 €**<br>_(cent cinquante euros)_|
+| Pour le baptême de l’enfant d’un membre<br>(_en cas de cérémonie et d’invitation)_ | **150 €**<br>_(cent cinquante euros)_|
+|Pour l’anniversaire d'un membre<br>_(en cas de cérémonie et d’invitation)_| **150 €**<br>_(cent cinquante euros)_|
 
 [Retour au sommaire](#top)
 
-*Le présent bureau a été élu lors de l’assemblée générale extraordinaire du 14 janvier 2023.
-Le mandat du présent bureau s’exerce du mois de janvier 2023 au mois de mars 2026.*
+
+
+
