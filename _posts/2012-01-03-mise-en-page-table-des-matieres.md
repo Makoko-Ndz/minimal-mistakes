@@ -1,5 +1,5 @@
 ---
-title: "Layout: Post with Nested Table of Contents via Helper"
+title: "Mise en Page: Publication avec Table des Matières imbriquée"
 tags:
   - table of contents
 ---
