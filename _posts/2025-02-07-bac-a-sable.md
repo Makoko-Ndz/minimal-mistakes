@@ -8,3 +8,7 @@ tags:
 ---
 
 {{url}}
+
+{{sit.url}}
+{{baseurl}}
+{{site.baseurl}}
