@@ -1,5 +1,5 @@
 ---
-title: "Layout: Post with Nested Table of Contents"
+title: "Mise en Page: Publication avec Table des Matières"
 tags:
   - table of contents
 toc: true
