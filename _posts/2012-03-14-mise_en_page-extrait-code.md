@@ -1,12 +1,12 @@
 ---
-title: "Layout: Code Excerpt (Generated)"
+title: "Mise en Page: Extrait de code (Généré)"
 categories:
-  - Layout
-  - Uncategorized
+  - Mise en Page
+  - Non Catégorisé
 tags:
-  - content
-  - excerpt
-  - layout
+  - contenu
+  - extrait
+  - mise en page
 ---
 
 This is the post content with inline code, (e.g. `<span style="color: red;">red</span>`. It should be displayed in place of the auto-generated excerpt in single-page views. Archive-index pages should display an auto-generated excerpt of this content.

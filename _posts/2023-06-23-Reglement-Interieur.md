@@ -9,7 +9,7 @@ toc: true
 toc_sticky: true
 ---
 
-![](https://makoko-ndz.github.io/minimal-mistakes/assets/images/logo-reduit.png)
+![]({{site.url}}{{site.baseurl}}/assets/images/logo-reduit.png)
 
 # <span style="color: #ef6e39">I. DISPOSITIONS GENERALES</span>
 ## <span style="color: #ef6e39">Article 1 : Cadre</span>

@@ -1,16 +1,11 @@
 ---
-title: "Layout: Post with Nested Table of Contents via Helper"
+title: "Mise en Page: Publication avec Table des Matières"
 tags:
   - table of contents
+toc: true
 ---
 
-Tests table of contents with multiple levels to verify indentation is readible via helper include (deprecated).
-
-```
-{% raw %}{% include toc %}{% endraw %}
-```
-
-{% include toc %}
+Tests table of contents with multiple levels to verify indentation is readible.
 
 # Enim laboris id ea elit elit deserunt
 
