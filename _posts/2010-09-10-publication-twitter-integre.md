@@ -1,10 +1,10 @@
 ---
-title: "Post: Twitter Embed"
+title: "Publication: Twitter Intégrer"
 categories:
   - Media
 tags:
-  - content
-  - embeds
+  - contenu
+  - intégration
   - media
   - twitter
 ---
