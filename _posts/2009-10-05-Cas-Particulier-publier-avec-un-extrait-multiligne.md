@@ -1,5 +1,5 @@
 ---
-title: "Edge Case: Post with multiline excerpt"
+title: "Cas Particulier: publier avec un extrait multiligne"
 ---
 
 Et ex ullamco duis don't
