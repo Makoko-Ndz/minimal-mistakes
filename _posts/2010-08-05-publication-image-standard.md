@@ -1,10 +1,10 @@
 ---
-title: "Post: Image (Standard)"
+title: "Publication: Image (Standard)"
 categories:
-  - Post Formats
+  - Formats de publication
 tags:
   - image
-  - Post Formats
+  - formats de publication
 ---
 
 The preferred way of using images is placing them in the `/assets/images/` directory and referencing them with an absolute path. Prepending the filename with `{% raw %}{{ site.url }}{{ site.baseurl }}/assets/images/{% endraw %}` will make sure your images display properly in feeds and such.
