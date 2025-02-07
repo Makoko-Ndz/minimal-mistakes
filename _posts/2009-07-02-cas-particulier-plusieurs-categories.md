@@ -1,6 +1,7 @@
 ---
 title: "Cas Particulier: Plusieurs Categories"
 categories:
+  - Cas Particulier
   - aciform
   - antiquarianism
   - arrangement
