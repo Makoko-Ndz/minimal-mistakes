@@ -1,10 +1,10 @@
 ---
-title: "Markup: Another Post with Images"
-excerpt: "Examples and code for displaying images in posts."
+title: "Balisage: Autre Publication avec des Images"
+excerpt: "Examples et code pour afficher des images dans une publication."
 header:
   teaser: "http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"
 tags: 
-  - sample post
+  - example publication
   - images
   - test
 ---
