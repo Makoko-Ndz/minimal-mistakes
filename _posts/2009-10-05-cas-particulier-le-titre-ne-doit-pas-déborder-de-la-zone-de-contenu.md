@@ -1,14 +1,14 @@
 ---
 title: "Antidisestablishmentarianism"
 categories:
-  - Edge Case
+  - Cas Particulier
 tags:
-  - content
+  - contenu
   - css
-  - edge case
+  - cas particulier
   - html
-  - layout
-  - title
+  - mise en page
+  - titre
 ---
 
 ## Title should not overflow the content area
