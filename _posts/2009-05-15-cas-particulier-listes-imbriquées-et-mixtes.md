@@ -1,13 +1,13 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "Cas Particulier: Listes imbriquées et mixtes"
 categories:
   - Edge Case
 tags:
-  - content
+  - contenu
   - css
-  - edge case
-  - lists
-  - markup
+  - cas particulier
+  - listes
+  - balisage
 ---
 
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
