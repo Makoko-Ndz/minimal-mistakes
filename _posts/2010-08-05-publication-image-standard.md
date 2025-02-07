@@ -1,7 +1,7 @@
 ---
 title: "Publication: Image (Standard)"
 categories:
-  - Formats de publication
+  - Formats de Publication
 tags:
   - image
   - formats de publication
