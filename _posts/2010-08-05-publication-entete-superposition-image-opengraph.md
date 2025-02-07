@@ -1,5 +1,5 @@
 ---
-title: "Post: Overlay Image with OpenGraph Override"
+title: "Publication: Image de superposition avec remplacement d'OpenGraph"
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   og_image: /assets/images/page-header-og-image.png
@@ -8,12 +8,12 @@ header:
     - label: "Learn More"
       url: "https://unsplash.com"
 categories:
-  - Layout
-  - Uncategorized
+  - Mise en Forme
+  - Non catégorisé
 tags:
-  - edge case
+  - cas particulier
   - image
-  - layout
+  - mise en forme
 last_modified_at: 2017-10-26T15:12:19-04:00
 ---
 
