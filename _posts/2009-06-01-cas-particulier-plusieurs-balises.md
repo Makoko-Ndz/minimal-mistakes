@@ -1,10 +1,10 @@
 ---
 title: "Cas Particulier: Plusieurs exemples de balises"
 categories:
-  - Edge Case
+  - Cas Particulier
 tags:
   - 8BIT
-  - alignment
+  - alignement
   - Articles
   - captions
   - categories
@@ -20,18 +20,18 @@ tags:
   - featured image
   - FTW
   - Fun
-  - gallery
+  - galerie
   - html
   - image
   - Jekyll
   - layout
-  - link
+  - lien
   - Love
   - markup
   - Mothership
   - Must Read
   - Nailed It
-  - Pictures
+  - Images
   - Post Formats
   - quote
   - standard
@@ -39,10 +39,10 @@ tags:
   - Swagger
   - Tags
   - template
-  - title
+  - titre
   - twitter
   - Unseen
-  - video
+  - vidéo
   - YouTube
   - U:R:COOL
   - C#
