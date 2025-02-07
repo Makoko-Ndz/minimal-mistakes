@@ -1,5 +1,5 @@
 ---
-title: "Edge Case: Many Tags"
+title: "Cas Particulier: Plusieurs exemples de balises"
 categories:
   - Edge Case
 tags:
