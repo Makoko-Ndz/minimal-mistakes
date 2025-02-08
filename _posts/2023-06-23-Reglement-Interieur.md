@@ -330,9 +330,9 @@ Montants révisés le 10 juin 2023
 
 |Cotisation|montant|
 |---|---:|
-|Droit d'adhésion<br>|15 €<br>_(quinze euros)_>|
-|Cotisation annuelle de fonctionnement<br>|15 €<br>_(quinze euros)_|
-|Cotisation mensuelle<br>|10 €<br>_(dix euros)_|
+|Droit d'adhésion<br>.|15 €<br>_(quinze euros)_|
+|Cotisation annuelle de fonctionnement<br>.|15 €<br>_(quinze euros)_|
+|Cotisation mensuelle<br>.|10 €<br>_(dix euros)_|
 
 [Retour au sommaire](#top)
 * * *
@@ -370,7 +370,7 @@ Dans les cas de décès, les membres de l’association sont tenus de verser une
 |En cas de décès d’un membre<br>|**2000 €** <br>_(deux mille euros)_|<span style="color: #6d81b8">_100 €<br>(cent euros)_</span>|
 |En cas de décès du conjoint ou de la conjointe d'un membre<br>|**1000 €**<br>_(mille euros)_ |<span style="color: #6d81b8">_50 €<br>(cinquante euros)_</span> |
 |En cas de décès de l'enfant d'un membre<br>|**1000 €**<br>_(mille euros)_ |<span style="color: #6d81b8">_50 €<br>(cinquante euros)_</span> |
-|En cas de décès du père ou de la mère d'un membre<br>|**1000 €**<br>_(mille euros)_ |<span style="color: #6d81b8">_50 €<br>(cinquante euros)_</span></br> |
+|En cas de décès du père ou de la mère d'un membre<br>|**1000 €**<br>_(mille euros)_ |<span style="color: #6d81b8">_50 €<br>(cinquante euros)_</span> |
 |En cas de décès du frère ou de la sœur d'un membre<br>|**500 €**<br>_(cinq cents euros)_ |<span style="color: #6d81b8">_25 € <br>(vingt-cinq euros)_</span> |
 
 Pour les évènements heureux, les primes versées par l’association ne nécessitent par la participation des membres.
