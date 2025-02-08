@@ -1,5 +1,5 @@
 ---
-title: "Posts by Tag (grid view)"
+title: "Publications par Mots-Clés (vue en grille)"
 permalink: /tags-grid/
 layout: tags
 entries_layout: grid
