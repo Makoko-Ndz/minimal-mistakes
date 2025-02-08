@@ -327,21 +327,25 @@ Les montants désignés ci-dessous sont susceptibles de modification.
 Montants révisés le 10 juin 2023
 
 ## <span style="color: #ef6e39">Cotisations des membres actifs</span> <a name="cotisations"></a>
+
 |Cotisation|montant|
 |---|---:|
-|Droit d'adhésion<br></br>|15 €<br>_(quinze euros)_</br>|
-|Cotisation annuelle de fonctionnement<br></br>|15 €<br>_(quinze euros)_</br>|
-|Cotisation mensuelle<br></br>|10 €<br>_(dix euros)_</br>|
+|Droit d'adhésion<br>|15 €<br>_(quinze euros)_>|
+|Cotisation annuelle de fonctionnement<br>|15 €<br>_(quinze euros)_|
+|Cotisation mensuelle<br>|10 €<br>_(dix euros)_|
+
 [Retour au sommaire](#top)
 * * *
 ## <span style="color: #ef6e39">Adhésion </span><a name="adhesion"></a>
 Pour chaque adhésion, le nouveau membre doit acquitter :
+
 | Cotisations|Montant |
 | --- | ---: |
-| Un droit d'adhésion unique de :<br></br>|15 €<br>_(quinze euros)_</br>|
-| Une cotisation annuelle de fonctionnement de :<br></br>|15 €<br>_(quinze euros)_</br>|
-| Deux mois de cotisations mensuelles, soit :<br></br>|20 €<br>_(vingt euros)_</br>|
-| **Soit un total de :**<br></br>| **50 €**<br>_(cinquante euros)_</br>|
+| Un droit d'adhésion unique de :<br>|15 €<br>_(quinze euros)_|
+| Une cotisation annuelle de fonctionnement de :<br>|15 €<br>_(quinze euros)_|
+| Deux mois de cotisations mensuelles, soit :<br>|20 €<br>_(vingt euros)_|
+| **Soit un total de :**<br>| **50 €**<br>_(cinquante euros)_|
+
 [Retour au sommaire](#top)
 * * *
 ## <span style="color: #ef6e39">Retard de cotisations </span><a name="retard"></a>
@@ -354,32 +358,23 @@ Contribution forfaitaire versée à un membre ou à un couple de membres recevan
 
 | Cotisation|Montant versé|Contribution attendue|
 | ---| ---: |---:|
-| Versée en contribution au repas :<br></br>| **100 €**<br>_(cent euros)_</br> |<span style="color: #6d81b8">_5 €<br>(cinq euros)_</span></br>|
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
+| Versée en contribution au repas :<br>| **100 €**<br>_(cent euros)_ |<span style="color: #6d81b8">_5 €<br>(cinq euros)_</span>|
 
 [Retour au sommaire](#top)
 * * *
 ## <span style="color: #ef6e39">Contribution au fond d’assistance mutuelle</span> <a name="mutuelle"></a>
 Dans les cas de décès, les membres de l’association sont tenus de verser une cotisation dont le montant varie en fonction du degré de parenté du défunt. 
+
 |Cotisation|Montant versé|Contribution attendue|
 | --- | ---: | ---:|
-|En cas de décès d’un membre<br></br>|**2000 €** <br>_(deux mille euros)_</br>|<span style="color: #6d81b8">_100 €<br>(cent euros)_</span></br>|
-|En cas de décès du conjoint ou de la conjointe d'un membre<br></br>|**1000 €**<br>_(mille euros)_</br> |<span style="color: #6d81b8">_50 €<br>(cinquante euros)_</span></br> |
-|En cas de décès de l'enfant d'un membre<br></br>|**1000 €**<br>_(mille euros)_</br> |<span style="color: #6d81b8">_50 €<br>(cinquante euros)_</span></br> |
-|En cas de décès du père ou de la mère d'un membre<br></br>|**1000 €**<br>_(mille euros)_</br> |<span style="color: #6d81b8">_50 €<br>(cinquante euros)_</span></br> |
-|En cas de décès du frère ou de la sœur d'un membre<br></br>|**500 €**<br>_(cinq cents euros)_</br> |<span style="color: #6d81b8">_25 € <br>(vingt-cinq euros)_</span></br> |
+|En cas de décès d’un membre<br>|**2000 €** <br>_(deux mille euros)_|<span style="color: #6d81b8">_100 €<br>(cent euros)_</span>|
+|En cas de décès du conjoint ou de la conjointe d'un membre<br>|**1000 €**<br>_(mille euros)_ |<span style="color: #6d81b8">_50 €<br>(cinquante euros)_</span> |
+|En cas de décès de l'enfant d'un membre<br>|**1000 €**<br>_(mille euros)_ |<span style="color: #6d81b8">_50 €<br>(cinquante euros)_</span> |
+|En cas de décès du père ou de la mère d'un membre<br>|**1000 €**<br>_(mille euros)_ |<span style="color: #6d81b8">_50 €<br>(cinquante euros)_</span></br> |
+|En cas de décès du frère ou de la sœur d'un membre<br>|**500 €**<br>_(cinq cents euros)_ |<span style="color: #6d81b8">_25 € <br>(vingt-cinq euros)_</span> |
 
 Pour les évènements heureux, les primes versées par l’association ne nécessitent par la participation des membres.
+
 | Cotisation|Montant versé |
 | ---| ---:|
 | Pour le mariage d'un membre<br>_(fournir une carte d’invitation)_|**500 €**<br>_(cinq cents euros)_|
