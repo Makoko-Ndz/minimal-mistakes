@@ -351,9 +351,21 @@ Montant de retard de cotisations accepté : **60 € (soixante euros)**
 * * *
 ## <span style="color: #ef6e39">Contribution repas </span><a name="repas"></a>
 Contribution forfaitaire versée à un membre ou à un couple de membres recevant une réunion de l’association afin de participer aux frais de la collation offerte
+
 | Cotisation|Montant versé|Contribution attendue|
 | ---| ---: |---:|
 | Versée en contribution au repas :<br></br>| **100 €**<br>_(cent euros)_</br> |<span style="color: #6d81b8">_5 €<br>(cinq euros)_</span></br>|
+
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|----
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=====
+| Foot1   | Foot2   | Foot3
+{: rules="groups"}
 
 [Retour au sommaire](#top)
 * * *
