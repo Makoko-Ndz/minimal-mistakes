@@ -1,7 +1,7 @@
 ---
 title: Textes Officiels
 layout: collection
-permalink: /textes-officiels/
+permalink: /textes-archive/
 collection: textes
 entries_layout: grid
 classes: wide
