@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Exemple de liste de documents pour la collection `_prestations`.
+Example de document faisant la liste de la collection `_prestations`.
