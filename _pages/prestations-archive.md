@@ -1,10 +1,10 @@
 ---
-title: Portfolio
+title: Prestations
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /prestations/
+collection: prestations
 entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_portfolio`.
+Exemple de liste de documents pour la collection `_prestations`.
