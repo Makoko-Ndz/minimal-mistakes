@@ -1,5 +1,5 @@
 ---
-title: "Publications par Mots-clés"
+title: "Mots-clés"
 permalink: /tags/
 layout: tags
 author_profile: true
