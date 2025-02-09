@@ -9,12 +9,10 @@ show_date: true
 author_profile: false
 classes: wide
 categories:
-  - Bac à Sable
-  - Prestations
+  - Compte-Rendu
 tags:
-  - prestations
   - contenu
-  - bac à sable
+  - compte-rendu
 ---
 
 {{site.url}}{{site.baseurl}}
