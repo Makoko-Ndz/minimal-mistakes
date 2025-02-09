@@ -1,5 +1,6 @@
 ---
 title: "Bac à Sable"
+collection : Prestations
 related: false
 share: false
 comments: true
