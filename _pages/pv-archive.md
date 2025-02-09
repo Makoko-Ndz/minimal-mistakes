@@ -1,7 +1,7 @@
 ---
 title: Compte-rendus de réunions
 layout: collection
-permalink: /portfolio/
+permalink: /pv-archive/
 collection: compte-rendus
 entries_layout: grid
 classes: wide
