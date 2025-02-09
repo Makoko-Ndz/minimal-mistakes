@@ -10,9 +10,9 @@ author_profile: false
 classes: wide
 categories:
   - Bac à Sable
-  - Prestations
+  - Portfolio
 tags:
-  - prestations
+  - portfolio
   - contenu
   - bac à sable
 ---
