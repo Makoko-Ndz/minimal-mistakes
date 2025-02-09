@@ -1,8 +1,8 @@
 ---
-title: Portfolio
+title: Compte-rendus de réunions
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /compte-rendus/
+collection: compte-rendus
 entries_layout: grid
 classes: wide
 ---
