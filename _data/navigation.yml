@@ -1,17 +1,15 @@
 # main links
 main:
   - title: "Prestations"
-    url: /prestations-archive #/year-archive-grid/  
+    url: /prestations-archive #/year-archive-grid/
+  - title: "Comptes-rendus"
+    url: /pv-archive
   - title: "Textes"
+    url: /textes-archive
+  - title: "Catégories"
     url: /categories/
   - title: "Mots-Clés"
     url: /tags/
-  - title: "Pages"
-    url: /page-archive-grid/
-  - title: "Thèmes"
-    url: /collection-archive/
-  - title: "Quick-Start Guide"
-    url: /portfolio-archive # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "External Link"
     url: https://google.com
     target: _blank
