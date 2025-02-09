@@ -7,7 +7,7 @@ main:
   - title: "Mots-Clés"
     url: /tags/
   - title: "Pages"
-    url: /page-archive/
+    url: /page-archive-grid/
   - title: "Thèmes"
     url: /collection-archive/
   - title: "Quick-Start Guide"
