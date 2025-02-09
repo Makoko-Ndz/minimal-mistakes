@@ -1,7 +1,7 @@
 ---
 title: Prestations
 layout: collection
-permalink: /prestations/
+permalink: /portfolio/
 collection: prestations
 entries_layout: grid
 classes: wide
