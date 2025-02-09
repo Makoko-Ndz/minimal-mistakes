@@ -1,5 +1,5 @@
 ---
-title: "Bac à Sable"
+title: "Prestation"
 collection : Prestations
 related: false
 share: false
