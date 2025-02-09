@@ -6,6 +6,8 @@ main:
     url: /pv-archive
   - title: "Textes"
     url: /textes-archive
+  - title: "Référence"
+    url:  /portfolio-archive 
   - title: "Catégories"
     url: /categories/
   - title: "Mots-Clés"
