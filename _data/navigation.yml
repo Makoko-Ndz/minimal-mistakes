@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Prestations"
-    url: /year-archive/  
+    url: /year-archive-grid/  
   - title: "Textes"
     url: /categories/
   - title: "Mots-Clés"
