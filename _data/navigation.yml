@@ -1,7 +1,8 @@
 # main links
 main:
   - title: "Prestations"
-    url: /_pages/sitemap #/year-archive-grid/
+    url: post-archive-feature-rows
+    #/year-archive-grid/
   - title: "Comptes-rendus"
     url: /pv-archive
   - title: "Textes"
