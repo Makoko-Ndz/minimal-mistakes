@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Prestations"
-    url: post-archive-feature-rows
+    url: /recipes-archive
     #/year-archive-grid/
   - title: "Comptes-rendus"
     url: /pv-archive
