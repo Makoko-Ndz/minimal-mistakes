@@ -1,5 +1,5 @@
 ---
-title: "Publications par Catégories"
+title: "Catégories"
 layout: categories
 permalink: /categories/
 author_profile: true
