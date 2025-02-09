@@ -1,5 +1,6 @@
 ---
 title: "Règlement Intérieur"
+collection: textes
 categories:
   - Documents Officiels
 tags:
