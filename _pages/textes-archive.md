@@ -1,8 +1,8 @@
 ---
-title: Portfolio
+title: Textes Officiels
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /textes-officiels/
+collection: textes
 entries_layout: grid
 classes: wide
 ---
