@@ -7,13 +7,7 @@ header:
   actions:
     - label: "Learn More"
       url: "https://unsplash.com"
-categories:
-  - Mise en Forme
-  - Non catégorisé
-tags:
-  - cas particulier
-  - image
-  - mise en forme
+
 last_modified_at: 2017-10-26T15:12:19-04:00
 ---
 
