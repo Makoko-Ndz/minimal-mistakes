@@ -39,7 +39,6 @@ Elle se réunit également autant de fois que nécessaire lorsque le groupe folk
 * * *
 
 ## <span style="color: #ef6e39"> Article 2.	Cotisation</span>
-
 Les membres du groupe folklorique doivent s'acquitter d'une cotisation annuelle.
 Les membres de l’association N’DZOUANA font partie de plein droit du groupe folklorique et n’ont, à ce titre, aucune cotisation à verser au groupe folklorique car ils s’acquittent déjà de leurs cotisations auprès de l’association N’DZOUANA.
 Le montant de cette cotisation annuelle est fixé chaque année par le bureau de l’association N’DZOUANA et la commission culturelle puis validé par l'assemblée générale, son montant est indiqué dans un document [annexe](#annexe), indexé à ce document.
