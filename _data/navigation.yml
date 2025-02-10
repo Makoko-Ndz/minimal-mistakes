@@ -4,7 +4,7 @@ main:
     url: /tags/textes-archive/
     #/year-archive-grid/
   - title: "Comptes-rendus"
-    url: /collection/pv-archive/
+    url: /tags/pv-archive/
   - title: "Textes"
     url: /tags/textes-archive/
   - title: "Référence"
