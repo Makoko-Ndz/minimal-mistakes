@@ -1,11 +1,6 @@
 ---
 title: "Markup: Title *with* **Markdown**"
-categories:
-  - Markdown
-tags:
-  - css
-  - html
-  - title
+
 ---
 
 Verify that:
