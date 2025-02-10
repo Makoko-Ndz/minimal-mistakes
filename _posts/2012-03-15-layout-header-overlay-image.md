@@ -8,13 +8,7 @@ header:
       url: "https://github.com"
     - label: "Call to action 2"
       url: "https://mademistakes.com"
-categories:
-  - Layout
-  - Uncategorized
-tags:
-  - edge case
-  - image
-  - layout
+
 last_modified_at: 2016-05-02T11:39:01-04:00
 ---
 
