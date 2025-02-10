@@ -7,7 +7,7 @@ tags:
   - règlement intérieur du groupe folklorique
   - groupe folklorique
   - documents officiels
-excerpt: *Ce règlement intérieur a pour objectif de préciser le fonctionnement du groupe folklorique de l'association N’DZOUANA*
+# excerpt: *Ce règlement intérieur a pour objectif de préciser le fonctionnement du groupe folklorique de l'association N’DZOUANA*
 
 toc: true
 toc_sticky: true
