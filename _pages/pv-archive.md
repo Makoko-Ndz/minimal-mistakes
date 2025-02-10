@@ -1,10 +1,10 @@
 ---
-title: Compte-rendus de réunions
-layout: collection
-permalink: /pv-archive/
-collection: compte-rendus
+title: Comptes-rendus de réunions
+layout: tag
+permalink: /tags/pv-archive/
+taxonomy:  procès verbal
 entries_layout: grid
 classes: wide
 ---
 
-Example de document faisant la liste de la collection `_compte-rendus`.
+Comptes-rendus adoptés des différentes réunions tenues par l'association.
