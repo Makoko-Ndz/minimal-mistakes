@@ -1,13 +1,6 @@
 ---
 title: "Cas Particulier: Listes imbriquées et mixtes"
-categories:
-  - Cas Particulier
-tags:
-  - contenu
-  - css
-  - cas particulier
-  - listes
-  - balisage
+
 ---
 
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
