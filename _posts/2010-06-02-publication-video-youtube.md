@@ -1,9 +1,6 @@
 ---
 title: "Post: Video (YouTube)"
-categories:
-  - Post Formats
-tags:
-  - Post Formats
+
 ---
 
 YouTube video embed below.
