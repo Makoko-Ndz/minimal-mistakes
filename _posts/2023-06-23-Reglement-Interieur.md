@@ -1,11 +1,12 @@
 ---
-title: "Règlement Intérieur"
+title: "Règlement Intérieur de l'association"
 collection: textes
 categories:
   - Documents Officiels
 tags:
   - règlement intérieur
   - documents officiels
+excerpt: "Le présent règlement intérieur fixe les règles d'organisation et de fonctionnement de l'Association N'DZOUANA"
 toc: true
 toc_sticky: true
 ---
