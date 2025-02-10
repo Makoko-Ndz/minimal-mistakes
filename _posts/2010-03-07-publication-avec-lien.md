@@ -1,10 +1,6 @@
 ---
 title: "Post: Link"
-categories:
-  - Post Formats
-tags:
-  - link
-  - Post Formats
+
 link: https://github.com
 ---
 
