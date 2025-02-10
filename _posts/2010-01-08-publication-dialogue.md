@@ -1,10 +1,6 @@
 ---
 title: "Post: Chat"
-categories:
-  - Post Formats
-tags:
-  - chat
-  - Post Formats
+
 ---
 
 Abbott: Strange as it may seem, they give ball players nowadays very peculiar names.
