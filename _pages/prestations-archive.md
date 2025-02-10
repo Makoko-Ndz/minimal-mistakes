@@ -1,8 +1,9 @@
 ---
 title: Prestations
-layout: collection
-permalink: /prestations-archive/
+layout: tag
+permalink: /tags/prestations-archive/
 collection: prestations
+taxonomy: prestations
 entries_layout: grid
 classes: wide
 ---
