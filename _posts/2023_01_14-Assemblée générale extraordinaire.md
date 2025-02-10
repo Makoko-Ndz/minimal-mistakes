@@ -1,21 +1,17 @@
 ---
-title: "Prestation"
-collections: Prestations
+title: "Comptes-Rendus"
+collections: Comptes-Rendus
 
 categories:
-  - Bac à Sable
-  - Prestations
+  - Comptes-Rendus
+  - Procès-Verbal
 tags:
-  - prestations
-  - contenu
-  - bac à sable
-  - related: false
-share: false
-comments: true
-read_time: false
+  - compte-rendu
+  - procès-verbal
+
+read_time: true
 show_date: true
-author_profile: false
 classes: wide
 ---
 
-{{site.url}}{{site.baseurl}}
+
