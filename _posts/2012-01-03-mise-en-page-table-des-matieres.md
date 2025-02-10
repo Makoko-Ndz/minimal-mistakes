@@ -1,7 +1,6 @@
 ---
 title: "Mise en Page: Publication avec Table des Matières imbriquée"
-tags:
-  - table of contents
+
 ---
 
 Tests table of contents with multiple levels to verify indentation is readible via helper include (deprecated).
