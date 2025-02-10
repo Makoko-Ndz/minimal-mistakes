@@ -7,7 +7,6 @@ categories:
   - Portfolio
   - Recipes
 tags:
-  -recipes
   - portfolio
   - contenu
   - bac à sable
