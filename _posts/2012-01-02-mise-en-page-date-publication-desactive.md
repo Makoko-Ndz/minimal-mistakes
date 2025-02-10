@@ -1,8 +1,7 @@
 ---
 title: "Mise en Page: Date Publication Désactivée"
 read_time: false
-tags:
-  - date publication
+
 ---
 
 This post has reading time disabled. The estimated time that it takes to read this post should not be showing if `read_time: false` is set in `_config.yml` or in this post's YAML Front Matter.
