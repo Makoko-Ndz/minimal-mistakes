@@ -1,7 +1,6 @@
 ---
 title: "Mise en Page: Publication avec Table des Matières"
-tags:
-  - table of contents
+
 toc: true
 ---
 
