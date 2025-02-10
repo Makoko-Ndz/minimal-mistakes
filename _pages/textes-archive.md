@@ -1,8 +1,8 @@
 ---
-title: Textes Officiels
+title: Documents Officiels
 layout: tag
-permalink: /tags/textes-archive/
-taxonomy: documents officiels
+permalink: /tags/textes-archive/ #/tags/markup/
+taxonomy:  documents officiels
 ---
 
-Sample post listing for the tag `documents officiels`.
+Documents officiels de l'association
