@@ -5,6 +5,7 @@ categories:
   - Prestations
 tags:
   - epinay-sur-seine
+  - groupe folklorique
 excerpt: "Prestation veillée"
 ---
 
