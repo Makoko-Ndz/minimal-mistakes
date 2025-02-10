@@ -1,14 +1,14 @@
 # main links
 main:
   - title: "Prestations"
-    url: /collection
+    url: /collection/
     #/year-archive-grid/
   - title: "Comptes-rendus"
-    url: /pv-archive
+    url: /pv-archive/
   - title: "Textes"
-    url: /textes-archive
+    url: /textes-archive/
   - title: "Référence"
-    url:  /portfolio-archive 
+    url:  /portfolio-archive/ 
   - title: "Catégories"
     url: /categories/
   - title: "Mots-Clés"
