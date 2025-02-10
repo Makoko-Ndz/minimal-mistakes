@@ -3,13 +3,11 @@ title: "Prestation"
 collections: Prestations
 
 categories:
-  - Bac à Sable
   - Prestations
 tags:
   - prestations
   - contenu
-  - bac à sable
-  - related: false
+related: false
 share: false
 comments: true
 read_time: false
