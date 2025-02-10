@@ -6,6 +6,7 @@ categories:
   - Prestations
 tags:
   - prestations
+  - serbonnes
 
 comments: true
 read_time: true
