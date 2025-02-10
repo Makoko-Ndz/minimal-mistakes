@@ -6,7 +6,6 @@ categories:
   - Prestations
 tags:
   - prestations
-  - contenu
 related: false
 share: false
 comments: true
