@@ -8,11 +8,12 @@ excerpt : "La réunion s'est tenue à la maison de La Salle, au	78a de la rue de
 classes: wide
 categories:
   - Compte-Rendu
-  - Procès Verbal
+  - Procès-Verbal
   - Assemblée Générale
 tags:
-  - procès verbal
+  - procès-verbal
   - compte-rendu
+  - assemblée générale extraordinaire
   - assemblée générale
 ---
 
