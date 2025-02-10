@@ -3,8 +3,7 @@ title: "Mise en Page: Publication avec Table des Matières"
 header:
   image: assets/images/unsplash-image-9.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-tags:
-  - table des matières
+
 toc: true
 toc_label: "Unique Title"
 toc_icon: "heart"
