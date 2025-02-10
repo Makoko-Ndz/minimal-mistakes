@@ -1,13 +1,7 @@
 ---
 title: "Bac à Sable"
-collection: recipes
-related: false
-share: false
-comments: true
-read_time: false
-show_date: true
-author_profile: false
-classes: wide
+collections: recipes
+
 categories:
   - Bac à Sable
   - Portfolio
@@ -17,6 +11,13 @@ tags:
   - portfolio
   - contenu
   - bac à sable
+related: false
+share: false
+comments: true
+read_time: false
+show_date: true
+author_profile: false
+classes: wide
 ---
 
 {{site.url}}{{site.baseurl}}
