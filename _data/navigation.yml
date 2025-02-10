@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Prestations"
-    url: /markup/
+    url: /tags/markup/
     #/year-archive-grid/
   - title: "Comptes-rendus"
-    url: /pv-archive/
+    url: /collection/pv-archive/
   - title: "Textes"
     url: /textes-archive/
   - title: "Référence"
@@ -13,7 +13,7 @@ main:
     url: /categories/
   - title: "Mots-Clés"
     url: /tags/
-  - title: "Pal du Site"
+  - title: "Plan du Site"
     url: /sitemap/
   - title: "External Link"
     url: https://google.com
