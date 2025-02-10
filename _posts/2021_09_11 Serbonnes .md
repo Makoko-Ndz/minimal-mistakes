@@ -6,13 +6,11 @@ categories:
   - Prestations
 tags:
   - prestations
-related: false
-share: false
+
 comments: true
-read_time: false
+read_time: true
 show_date: true
-author_profile: false
+
 classes: wide
 ---
 
-{{site.url}}{{site.baseurl}}
