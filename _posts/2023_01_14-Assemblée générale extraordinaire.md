@@ -1,6 +1,6 @@
 ---
 title: "Assemblée Générale Extraordinaire"
-collections : compte-rendus
+collections : compte rendus
 categories:
   - Compte Rendu
   - Procès Verbal
@@ -13,9 +13,6 @@ tags:
 excerpt : "La réunion s'est tenue à la maison de La Salle, au	78a de la rue de Sèvres 75007 Paris"
 toc: true
 toc_sticky: true
-classes: wide
-read_time: true
-show_date: true
 ---
 
 *La réunion s'est tenue à la maison de La Salle*
