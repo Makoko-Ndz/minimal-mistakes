@@ -1,6 +1,6 @@
 ---
 title: "Règlement Intérieur du Groupe Folklorique"
-collection: textes
+collections: textes
 categories:
   - Documents Officiels
 tags:
