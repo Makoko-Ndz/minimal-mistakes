@@ -17,10 +17,6 @@ toc_icon: "heart"
 
 ![]({{site.url}}{{site.baseurl}}/assets/images/logo-reduit.png)
 
-|REGLEMENT INTERIEUR DU GROUPE FOLKLORIQUE DE L’ASSOCIATION N’DZOUANA|
-|---|
-
-
 * * *
 
 *Ce règlement intérieur a pour objectif de préciser le fonctionnement du groupe folklorique de l'association N’DZOUANA, dont l'objet est d’organiser des spectacles de danse téké, dans le cadre de manifestations culturelles ou dans tout type d’évènement rythmant la vie culturelle du peuple téké.
