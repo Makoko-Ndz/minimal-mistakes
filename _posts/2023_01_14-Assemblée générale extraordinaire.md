@@ -11,7 +11,6 @@ tags:
 
 read_time: true
 show_date: true
-classes: wide
 ---
 
 
