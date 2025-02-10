@@ -2,12 +2,12 @@
 title: "Assemblée Générale Extraordinaire"
 collections : compte-rendus
 categories:
-  - Compte-Rendu
-  - Procès-Verbal
+  - Compte Rendu
+  - Procès Verbal
   - Assemblée Générale
 tags:
-  - procès-verbal
-  - compte-rendu
+  - procès verbal
+  - compte rendu
   - assemblée générale extraordinaire
   - assemblée générale
 excerpt : "La réunion s'est tenue à la maison de La Salle, au	78a de la rue de Sèvres 75007 Paris"
