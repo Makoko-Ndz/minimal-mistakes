@@ -1,12 +1,6 @@
 ---
 title: "Markup: Text Alignment"
-categories:
-  - Markup
-tags:
-  - alignment
-  - content
-  - css
-  - markup
+
 ---
 
 ### Default
