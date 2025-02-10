@@ -1,14 +1,6 @@
 ---
 title: "Anticonstitutionnellement"
-categories:
-  - Cas Particulier
-tags:
-  - contenu
-  - css
-  - cas particulier
-  - html
-  - mise en page
-  - titre
+
 ---
 
 ## Title should not overflow the content area
