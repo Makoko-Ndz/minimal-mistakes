@@ -4,12 +4,7 @@ header:
   video:
     id: -PVofD2A9t8
     provider: youtube
-categories:
-  - Mise en Page
-  - non catégorisé
-tags:
-  - vidéo
-  - mise en page
+
 ---
 
 This post should display a **header with a responsive video**, if the theme supports it.
