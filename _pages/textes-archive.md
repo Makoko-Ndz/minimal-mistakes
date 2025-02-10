@@ -2,7 +2,7 @@
 title: Textes Officiels
 layout: tag
 permalink: /tags/textes-archive/
-taxonomy: textes
+taxonomy: documents officiels
 ---
 
-Sample post listing for the tag `markup`.
+Sample post listing for the tag `documents officiels`.
