@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Prestations"
-    url: /tags/textes-archive/
+    url: /tags/prestations-archive/
     #/year-archive-grid/
   - title: "Comptes-rendus"
     url: /tags/pv-archive/
