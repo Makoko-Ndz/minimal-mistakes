@@ -1,10 +1,8 @@
 ---
 title: Textes Officiels
-layout: collection
-permalink: /textes-archive/
-collection: textes
-entries_layout: grid
-classes: wide
+layout: tag
+permalink: /tags/textes-archive/
+taxonomy: textes
 ---
 
-Example de document faisant la liste de la collection `_textes`.
+Sample post listing for the tag `markup`.
