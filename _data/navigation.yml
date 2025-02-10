@@ -6,7 +6,7 @@ main:
   - title: "Comptes-rendus"
     url: /collection/pv-archive/
   - title: "Textes"
-    url: /textes-archive/
+    url: /tags/textes-archive/
   - title: "Référence"
     url:  /archive/collection/portfolio-archive/ 
   - title: "Catégories"
